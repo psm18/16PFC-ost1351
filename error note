@@ -2,3 +2,8 @@ ex07 4줄 *표시안함
 ex28 13줄 )표시 하나더함
 ex32 에 한글 주석 사용전에 # -*-coding:utf8을 적지 않았다
 27~33 중요!!!!!!(셤)
+
+ex40 Sng -> song
+     , -> .
+     MYStuff -> MyStuff
+     (object) -> (object):
